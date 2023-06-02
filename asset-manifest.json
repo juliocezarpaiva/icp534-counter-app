@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/icp534-counter-app/static/css/main.93669f59.css",
+    "main.js": "/icp534-counter-app/static/js/main.a5cfe204.js",
+    "index.html": "/icp534-counter-app/index.html",
+    "main.93669f59.css.map": "/icp534-counter-app/static/css/main.93669f59.css.map",
+    "main.a5cfe204.js.map": "/icp534-counter-app/static/js/main.a5cfe204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93669f59.css",
+    "static/js/main.a5cfe204.js"
+  ]
+}
